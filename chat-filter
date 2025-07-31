@@ -1,0 +1,44 @@
+\bc+\W*[a-z]?((\s*[o0])|[\(\<]\s*[\)\>])+\W*(m+|nn)\b
+\b[o0]\s*r\s*g\b|\(\s*\)\s*r\s*g
+(youtube|instagram) \@|\@\w+ on instagram
+\d{3}.*m.+you.*tube
+(d[i1]+[s5]c|gg).*gg
+d[\,\.]gg\/.*\W
+(giveaway|live).+(ttv|twitch)
+(ttv|twitch).+(giveaway|live)
+(\d{1,4}|\d.\d)\s*[kmb] giveaway
+giveaway (\d{1,4}|\d.\d)\s*[kmb]
+\[.+\]
+(\d\d?\:){2}\d\d
+(buy|sell|spend|need|show|spare).+(\d[mb]|[^\w\s]|[mb]ill|bank)
+pay(ing)?( up to)? ((\d{1,4}|\d.\d)[mb]|ge tax)
+(donate|free|give|pl[sz]|trade)( me)? ((\d{1,4}|\d.\d)[kmb])
+[a-z\s]+ \d{1,4}(\W\d)?[kmb]\W*\s*quick trade
+(looking for|wtb) [a-z\s\W]* (\d{1,4}(\W\d)?[kmb\%]?|paid|deal)
+(take this and meet me|here take tele).+bank
+come to.+name is
+trad(e|ing)\s+up|trade.+regret it|trade( (yo)?u)? with my main
+(2(.1)?b(il+)?|max cash) for
+show( me)?( al+)?( (yo)?ur)? (cash|gear|item)
+cash or token|token or cash
+[^\w\s].+[^\w\s]\s*([cf]c|chat\s*chan|(clan|friends?)\s*chat)
+join\s*([cf]c)?\s*[^\w\s].+[^\w\s]
+doublin|double money
+[^\w\s].*100k\s*.\s*\d{3}m.*[^\w\s]
+100k min\s*.\s*\d{3}m max
+id\: \d{7}
+\(\d\/\d\)
+with (a )?roll
+\d\d [^\w\s] (remember|be careful)
+stay within your limit
+impost[eo]rs? pretend|beware of impost[eo]r
+s\W*c\W*a\W*m server
+adver.+stay safe
+all service discord.+be aware
+0[\.\,]\d{1,3} per m(il+)? coin
+rakeback|live dealer
+\d{3}m.+discord
+osbuddy.*?co.*?uk
+soulsplit rsps
+buy(ing)?( all)? (twisted bow|tumeken|shadow|tbow)
+rs to ikov
