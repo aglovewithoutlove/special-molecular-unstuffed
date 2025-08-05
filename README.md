@@ -19,6 +19,3 @@ The color is green with ~60% opacity (`6300FF00`) and the render style is `tile`
 3. Increase the `Border width` until it fills in the tiles
 > [!NOTE]
 > Changing the `Border width` will affect all marked objects, so you will either need to manually change it every time you want to go to PNM or create a duplicate profile specifically for PNM.
-
-### Theatre of Blood Exhumed (Xarpus)
-The color is green (`FF00FF00`) and the render style is `tile`.
