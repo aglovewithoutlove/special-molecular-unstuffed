@@ -42,3 +42,5 @@ osbuddy.*?co.*?uk
 soulsplit rsps
 buy(ing)?( all)? (twisted bow|tumeken|shadow|tbow|scythe)
 rs to ikov
+[^\x20-\x7E]
+ice world|world 302|clan hall
