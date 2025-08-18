@@ -11,6 +11,7 @@ giveaway (\d{1,4}|\d.\d)\s*[kmb]
 \[.+\]
 (\d\d?\:){2}\d\d
 (buy|sell|spend|need|show|spare).+(\d[mb]|[^\w\s]|[mb]ill|bank)
+buying (cox|to[ab]) gear over ge price
 pay(ing)?( up to)? ((\d{1,4}|\d.\d)[mb]|ge tax)
 (donate|free|give|pl[sz]|trade)( me)? ((\d{1,4}|\d.\d)[kmb])
 [a-z\s]+ \d{1,4}(\W\d)?[kmb]\W*\s*quick trade
