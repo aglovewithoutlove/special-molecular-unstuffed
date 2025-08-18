@@ -11,12 +11,13 @@ giveaway (\d{1,4}|\d.\d)\s*[kmb]
 \[.+\]
 (\d\d?\:){2}\d\d
 (buy|sell|spend|need|show|spare).+(\d[mb]|[^\w\s]|[mb]ill|bank)
-buying (cox|to[ab]) gear over ge price
+buy(ing)?( all)? (twisted bow|tbow|tumeken|shadow|scythe|(cox|to[ab]) gear)
 pay(ing)?( up to)? ((\d{1,4}|\d.\d)[mb]|ge tax)
 (donate|free|give|pl[sz]|trade)( me)? ((\d{1,4}|\d.\d)[kmb])
 [a-z\s]+ \d{1,4}(\W\d)?[kmb]\W*\s*quick trade
 (looking for|wtb) [a-z\s\W]* (\d{1,4}(\W\d)?[kmb\%]?|paid|deal)
 (take this and meet me|here take tele).+bank
+come to camelot and meet me at camelot bank
 come to.+name is
 trad(e|ing)\s+up|trade.+regret it|trade( (yo)?u)? with my main
 (2(.1)?b(il+)?|max cash) for
@@ -41,7 +42,6 @@ rakeback|live dealer
 \d{3}m.+discord
 osbuddy.*?co.*?uk
 soulsplit rsps
-buy(ing)?( all)? (twisted bow|tumeken|shadow|tbow|scythe)
 rs to ikov
 [^\x20-\x7E]
 ice world|world 302|clan hall
